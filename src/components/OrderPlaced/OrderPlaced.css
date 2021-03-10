@@ -1,0 +1,27 @@
+.stars{
+    text-align: center;
+    margin-top: 70px;
+    color: rgb(240, 139, 6);
+}
+.small-star{
+    height: 10px;
+}
+.medium-star{
+    height: 13px;
+}
+.big-star{
+    height: 22px;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+.confirm-heading{
+    text-align: center;
+}
+.confirm-text{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 45px;
+    color: #FF1E00;
+}
+.confirm-heading p{
+    color: #525151;
+}

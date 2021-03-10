@@ -1,0 +1,32 @@
+h2{
+    font-size: 21px;
+}
+.cart{
+    text-align: center;
+    margin-left: 25px;
+}
+.pricing h4{
+    margin-top: 5px;
+    color: coral;
+}
+#itemPrice{
+    margin-left: 70px;
+}
+#shipping{
+    margin-left: 47px;
+}
+#tax{
+    margin-left: 111px;
+}
+#total{
+    margin-left: 44px;
+}
+.pricing button{
+    background-color: #F0C14B;
+    padding: 10px 40px;
+    border-radius: 4px;
+    font-size: 13px;
+    border: 1px solid gray;
+    cursor: pointer;
+    margin-bottom: 15px;
+}
